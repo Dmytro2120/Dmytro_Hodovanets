@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dmytro_Hodovanets/static/css/main.35ed68a7.css",
+    "main.js": "/Dmytro_Hodovanets/static/js/main.d102e2b0.js",
+    "static/media/bg.jpg": "/Dmytro_Hodovanets/static/media/bg.5d06169314adde5d84f3.jpg",
+    "index.html": "/Dmytro_Hodovanets/index.html",
+    "main.35ed68a7.css.map": "/Dmytro_Hodovanets/static/css/main.35ed68a7.css.map",
+    "main.d102e2b0.js.map": "/Dmytro_Hodovanets/static/js/main.d102e2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ed68a7.css",
+    "static/js/main.d102e2b0.js"
+  ]
+}
